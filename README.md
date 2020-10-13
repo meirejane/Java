@@ -8,7 +8,7 @@ Olá
   <a href="#-tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-  <img alt="Maratona Behind the Code"  width="100%">
+  <img alt="AlgaWorks"  width="100%">
 </p>
  ## Tecnologia
  
