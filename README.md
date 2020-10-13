@@ -11,7 +11,11 @@ Olá
   <img alt="Maratona Behind the Code"  width="100%">
 </p>
  ## Tecnologia
+ 
 Esse projeto foi desenvolvido utilizando a seguintes tecnologia:
-- [java]
+
+-[java]
+
 ---
+
 <p align="center">Esse código foi desenvolvido pela Meirejane</p>
